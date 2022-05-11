@@ -1,0 +1,2 @@
+# ArduinoforSDCard
+Arduino操作SD卡的基础例程，包括text读写和wav播放器
